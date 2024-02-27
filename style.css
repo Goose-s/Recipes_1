@@ -1,0 +1,15 @@
+.text {
+    color: #eCF0F1;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: larger;
+}
+.header {
+    font-size: 56px;
+}
+*{
+    background-color: #6F1A07;
+}
+.img{
+ align-self: center;
+}
